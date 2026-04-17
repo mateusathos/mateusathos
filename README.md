@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus Athos
 
-Desenvolvedor e estudante de Sistemas de Informação do IFMG Campus Sabará.
+Sou desenvolvedor e estudante de Sistemas de Informação do IFMG Campus Sabará.
 
 ---
 
@@ -15,9 +15,7 @@ Desenvolvedor e estudante de Sistemas de Informação do IFMG Campus Sabará.
 
 ![Techs](https://skillicons.dev/icons?i=python,js,java,mysql,git,github)
 
-
 ---
-
 
 ## Contato
 
