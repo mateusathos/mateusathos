@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Mateus Athos
 
-<!--
-**mateusathos/mateusathos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor e estudante de Sistemas de Informação do IFMG Campus Sabará.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+* Focado em evolução constante como desenvolvedor
+* Interesse em desenvolvimento de software, backend e projetos práticos
+
+---
+
+## Tecnologias & Ferramentas
+
+![Techs](https://skillicons.dev/icons?i=js,ts,python,java,git,github,nodejs,react,mysql)
+
+
+---
+
+
+## Contato
+
+* Email: [mateusathos.dev@gmail.com](mailto:seuemail@email.com)
+* LinkedIn: https://linkedin.com/in/mateus-athos/
