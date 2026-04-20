@@ -7,7 +7,7 @@ Sou desenvolvedor e estudante de Sistemas de Informação do IFMG Campus Sabará
 ## Sobre mim
 
 * Focado em evolução constante como desenvolvedor
-* Interesse em desenvolvimento de software, backend, automações e projetos práticos
+* Interessado em desenvolvimento de software, backend, automações e projetos práticos
 
 ---
 
