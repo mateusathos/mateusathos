@@ -20,4 +20,4 @@ Sou desenvolvedor e estudante de Sistemas de Informação do IFMG Campus Sabará
 ## Contato
 
 * Email: [mateusathos.dev@gmail.com](mailto:seuemail@email.com)
-* LinkedIn: https://linkedin.com/in/mateus-athos/
+* LinkedIn: https://linkedin.com/in/mateus-athos
