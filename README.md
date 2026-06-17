@@ -1,4 +1,4 @@
-# Olá, eu sou o Mateus Athos
+# Olá!
 
 Sou desenvolvedor e estudante de Sistemas de Informação do IFMG Campus Sabará.
 
