@@ -13,7 +13,7 @@ Sou desenvolvedor e estudante de Sistemas de Informação do IFMG Campus Sabará
 
 ## Tecnologias & Ferramentas
 
-![Techs](https://skillicons.dev/icons?i=python,js,postgresql,mysql,git)
+![Techs](https://skillicons.dev/icons?i=python,js,postgresql,sqlite,mysql,git)
 
 ---
 
