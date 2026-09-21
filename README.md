@@ -89,14 +89,13 @@ Automação desktop desenvolvida em Python para estudo de automação de interfa
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub em resumo
 
-<div align="center">
+- **Foco:** backend, desenvolvimento web, APIs, automações e aplicações mobile
+- **Tecnologias mais presentes nos projetos:** Python, JavaScript, Node.js, Flutter/Dart e SQL
+- **Experiência prática:** autenticação, integrações com APIs, bancos relacionais, deploy e automação
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mateusathos&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Mateus Athos" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusathos&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Mateus Athos" />
-
-</div>
+🔎 [Ver todos os meus repositórios](https://github.com/mateusathos?tab=repositories)
 
 ---
 
