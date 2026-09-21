@@ -39,16 +39,6 @@ Atualmente, sigo aprofundando meus conhecimentos em **Python, JavaScript, SQL, A
 
 ---
 
-## 📊 GitHub em resumo
-
-- **Foco:** backend, desenvolvimento web, APIs, automações e aplicações mobile
-- **Tecnologias mais presentes nos projetos:** Python, JavaScript, Node.js, Flutter/Dart e SQL
-- **Experiência prática:** autenticação, integrações com APIs, bancos relacionais, deploy e automação
-
-🔎 [Ver todos os meus repositórios](https://github.com/mateusathos?tab=repositories)
-
----
-
 ## 📫 Contato
 
 - **LinkedIn:** [linkedin.com/in/mateus-athos](https://linkedin.com/in/mateus-athos)
